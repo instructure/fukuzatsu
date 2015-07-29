@@ -12,11 +12,11 @@ Fukuzatsu was created by [Coraline Ada Ehmke](http://where.coraline.codes/) and 
 
 These are screenshots of the `-f html` output. First, the overall project summary:
 
-![Project Summary](https://gitlab.com/coraline/fukuzatsu/raw/master/doc/images/overview.png)
+![Project Summary](http://i.imgur.com/ekrSAl5.png)
 
 Then the detail view of a single class:
 
-![Project Summary](https://gitlab.com/coraline/fukuzatsu/raw/master/doc/images/details.png)
+![Project Summary](http://i.imgur.com/FGRSmh8.png)
 
 ## Installation
 
